@@ -1,4 +1,4 @@
-# Government Secure Network Protection Architecture
+# Government Secure Network Protection solution
 
 ## Overview
 This repository documents a defense-in-depth architecture designed for national-level secure networks, including segmentation, zero trust concepts.
