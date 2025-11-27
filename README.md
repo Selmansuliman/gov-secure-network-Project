@@ -13,5 +13,3 @@ This repository documents a defense-in-depth architecture designed for national-
 - Zero Trust micro-segmentation principles
 - Secure remote access and bastion hosts
 
-## How to use
-Review the `architecture/` diagrams, then adapt `policies/` and `playbooks/` to your environment.
